@@ -13,6 +13,7 @@ public class AA {
 
     public static void main(String[] args) {
         System.out.println("tttttt");
+        System.out.println("哈哈哈");
     }
 
 }
